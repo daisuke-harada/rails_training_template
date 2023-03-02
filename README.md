@@ -1,5 +1,12 @@
 # README
 
+- 環境構築が面倒なためこのテンプレートから今後はrailsプロジェクトを作成します
+
+- Rails7
+- tailwindcss
+- mysql
+- rspec
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -21,4 +28,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* 
