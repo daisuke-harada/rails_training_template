@@ -7,7 +7,7 @@ RUN gem install "bundler:~>2.0" --no-document && \
 # Web dependencies
 
 RUN apt-get update -qq && \
-  apt-get install -y build-essential libpq-dev vim
+  apt-get install -y build-essential libpq-dev vim mariadb-client
 
 # Web
 WORKDIR /web
